@@ -96,6 +96,7 @@
   text-align: center;
 }
 
-.rectangle-icon4:hover {
-  box-shadow: 1px 1px 9px 0px #000;
+img:hover {
+    border-radius: 69%;
+    box-shadow: inset 0px 1px 13px 0px #000;
 }
