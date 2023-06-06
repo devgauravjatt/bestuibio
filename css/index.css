@@ -1,0 +1,101 @@
+.iphone-14-1-child {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: center;
+  margin: 40px auto;
+  border-radius: 10px;
+  background: linear-gradient(90deg, #de85f9, #85fdd3), #fff;
+  box-shadow: inset 0px 0px 11px 8px rgba(0, 0, 0, 0.46);
+  width: 332px;
+  height: 619px;
+}
+
+.rectangle-icon {
+  width: 55px;
+  height: 43px;
+  object-fit: cover;
+}
+
+.hii-i-am {
+  font-size: 20px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 294px;
+  height: 119px;
+  font-weight: 600;
+}
+
+.rectangle-icon4 {
+  width: 55px;
+  height: 43px;
+  transition: 1s;
+  object-fit: cover;
+}
+
+.rectangle-icon4 {
+  left: 117px;
+  width: 56px;
+  transition: 1s;
+}
+
+.rectangle-icon4 {
+  left: 64px;
+  width: 54px;
+}
+
+.rectangle-icon4 {
+  left: 224px;
+  width: 55px;
+}
+
+.span {
+  color: #b4b2b5;
+}
+
+.gaurav-jatt {
+  color: #0012ff;
+}
+
+.dev-gaurav-jatt-container {
+  margin-bottom: 32px;
+  font-weight: bold;
+  font-size: 40px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 256px;
+  height: 40px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  color: #c400ff;
+}
+
+.iphone-14-1-item {
+  width: 254px;
+  height: 254px;
+  object-fit: cover;
+}
+
+.iphone-14-1-inner {
+  background: linear-gradient(90deg, #f3ce29, #fba19c);
+  width: 560px;
+  height: 889px;
+  display: none;
+}
+
+.iphone-14-1 {
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 24px;
+  color: #000;
+  font-family: Caveat;
+}
+
+.mytext {
+  text-align: center;
+}
+
+.rectangle-icon4:hover {
+  box-shadow: 1px 1px 9px 0px #000;
+}
