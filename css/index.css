@@ -73,6 +73,7 @@
   width: 254px;
   height: 254px;
   object-fit: cover;
+  filter: drop-shadow(5px 5px 5px #222);
 }
 
 .iphone-14-1-inner {
@@ -96,7 +97,7 @@
   text-align: center;
 }
 
-img:hover {
+.rectangle-icon4:hover {
     border-radius: 69%;
     box-shadow: inset 0px 1px 13px 0px #000;
 }
